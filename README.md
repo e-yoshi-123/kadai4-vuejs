@@ -1,2 +1,2 @@
-# チャットアプリのURL
+# 繝√Ε繝�繝医い繝励ΜURL
 https://vite-project-3763a.web.app
